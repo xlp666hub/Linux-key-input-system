@@ -44,8 +44,7 @@
 .
 ├── input_key.c              # GPIO input 按键驱动源码
 ├── Makefile                 # 内核模块编译文件
-├── dts/
-│   └── my_input_key.dts     # 设备树节点示例
+├── my_input_key.dts         # 设备树节点
 ├── README.md
 └── .gitignore
 ```
